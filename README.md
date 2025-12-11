@@ -1,5 +1,5 @@
-# 📄 README Generator — No-Lottie Edition  
-### _Animated, Interactive, and Fully Customizable GitHub Profile README Builder_
+# 📄 README Generator 
+### _Animated, Interactive, and Fully Customizable GitHub Profile README Generator_
 
 This project is a **Streamlit-based web app** that lets users generate beautiful, customizable **GitHub profile README.md files** with:
 
@@ -8,7 +8,6 @@ This project is a **Streamlit-based web app** that lets users generate beautiful
 ✔ Tech stack badges  
 ✔ Resume-style or minimal templates  
 ✔ Dark/Light mode UI  
-✔ Pure CSS animations (no Lottie, no GIFs)  
 ✔ GitHub API import (auto-load bio + repos)  
 ✔ QR code generator for portfolio links  
 ✔ Save & load presets  
@@ -88,5 +87,4 @@ Download instantly as PNG.
 
 ---
 
-## 📂 Project Structure
 
