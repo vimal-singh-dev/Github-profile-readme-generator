@@ -1,3 +1,6 @@
+# Github-profile-readme-generator
+
+
 # 📄 Github-profile-readme-generator
 ### _Animated, Interactive, and Fully Customizable GitHub Profile README Generator_
 
@@ -90,3 +93,19 @@ Download instantly as PNG.
 
 
 
+
+
+Run locally:
+
+1. Create a virtual environment (recommended)
+   python -m venv .venv
+   source .venv/bin/activate   # linux/mac
+   .venv\Scripts\activate     # windows
+
+2. Install requirements:
+   pip install -r requirements.txt
+
+3. Run the app:
+   streamlit run app.py
+
+The app will open in your browser. Fill the form and download README.md or the portfolio QR PNG.
