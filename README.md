@@ -1,4 +1,4 @@
-# 📄 README Generator 
+# 📄 Github-profile-readme-generator
 ### _Animated, Interactive, and Fully Customizable GitHub Profile README Generator_
 
 This project is a **Streamlit-based web app** that lets users generate beautiful, customizable **GitHub profile README.md files** with:
@@ -86,5 +86,6 @@ Download instantly as PNG.
 - QR Code generator  
 
 ---
+
 
 
